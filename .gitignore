@@ -1,2 +1,6 @@
 # General output directory for plot output
 release/
+
+# Ignore backups and autosaves
+*.kicad_pcb-bak
+_autosave-gamething.kicad_pcb
