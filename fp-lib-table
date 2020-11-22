@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name gamething)(type KiCad)(uri ${KIPRJMOD}/gamething.pretty)(options "")(descr ""))
+  (lib (name POWER_PAK)(type KiCad)(uri C:/Users/chip/Documents/KiCad/POWER_PAK/POWER_PAK.pretty)(options "")(descr ""))
+)

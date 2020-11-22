@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name gamething)(type Legacy)(uri ${KIPRJMOD}/gamething.lib)(options "")(descr ""))
+  (lib (name POWER_PAK)(type Legacy)(uri C:/Users/chip/Documents/KiCad/POWER_PAK/POWER_PAK.lib)(options "")(descr ""))
+)
